@@ -9,6 +9,22 @@ It combines real-time strategic gameplay with true digital asset ownership, usin
 > ⚠️ Gasless mode is currently disabled. You need Sepolia ETH in your wallet to log in.  
 > 💧 You can get Sepolia ETH from the faucet: [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/)
 
+
+## Screenshots
+
+### Game Cover
+![Game Cover](login_cover.png)
+
+### Wallet Connection Screen
+![Wallet Connection](wallet_connect.png)
+
+### Main Menu
+![Main Menu](main_menu.png)
+
+### Battle Scene
+![Battle Scene](battle_scene.png)
+
+
 ## Features
 
 - 🎮 **Real-Time Card Battle System**: Inspired by Clash Royale, players deploy NFT units in real-time battles with strategic energy management.
