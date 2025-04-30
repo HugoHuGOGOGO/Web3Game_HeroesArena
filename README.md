@@ -10,20 +10,6 @@ It combines real-time strategic gameplay with true digital asset ownership, usin
 > 💧 You can get Sepolia ETH from the faucet: [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/)
 
 
-## Screenshots
-
-### Game Cover
-![Game Cover](login_cover.png)
-
-### Wallet Connection Screen
-![Wallet Connection](wallet_connect.png)
-
-### Main Menu
-![Main Menu](main_menu.png)
-
-### Battle Scene
-![Battle Scene](battle_scene.png)
-
 
 ## Features
 
