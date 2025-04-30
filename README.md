@@ -40,7 +40,6 @@ All contracts are deployed on the Sepolia testnet and follow Solidity best pract
 HeroesArena/
 ├── Assets/             # Unity assets and scripts
 ├── Contracts/          # Solidity smart contracts
-├── Packages/           # Unity packages
 ├── ProjectSettings/    # Unity project settings
 ├── README.md           # Project description
 └── .gitignore          # Git tracking configuration
