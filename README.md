@@ -3,6 +3,12 @@
 Heroes Arena is a decentralized card battle game built with Unity and blockchain technology.  
 It combines real-time strategic gameplay with true digital asset ownership, using NFTs and smart contracts on the Ethereum Sepolia testnet.
 
+🎮 **Try the Game Online**:  
+👉 [Play Heroes Arena (WebGL version)](https://hugohugogogo.github.io/HeroesArena_WebGL/)  
+
+> ⚠️ Gasless mode is currently disabled. You need Sepolia ETH in your wallet to log in.  
+> 💧 You can get Sepolia ETH from the faucet: [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/)
+
 ## Features
 
 - 🎮 **Real-Time Card Battle System**: Inspired by Clash Royale, players deploy NFT units in real-time battles with strategic energy management.
